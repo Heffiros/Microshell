@@ -14,7 +14,7 @@ input();
 
 function create_key()
 {
-  $array = array("echo","ls","pwd","cat","env","setenv","unsetenv", "cd", "exit");
+  $array = array("echo","ls","pwd","cat","env","setenv","unsetenv","cd","exit");
   return ($array);
 }
 
